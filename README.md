@@ -15,7 +15,7 @@ I'm a dedicated and enthusiastic Full Stack Developer, currently focusing on bui
 
 - 💬 Feel free to ask me about **Laravel, React.js, Node.js, Next.js, MongoDB, MySql**, and Full Stack Development in general.
 
-- 📫 You can reach me at **shairaliyamin@gmail.com**, **Phone:** +923086258694.
+- 📫 You can reach me at **m.wajahatabid@gmail.com**, **Phone:** +923194333402.
 
 - ⚡ Fun fact: **I think of coding as solving complex puzzles, piece by piece!**
 
